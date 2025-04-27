@@ -1,8 +1,8 @@
-# Lesson 2: Loading and Using Your Own Data 📂✍️
+## Lesson 2: Loading and Using Your Own Data 📂✍️
 
 ---
 
-## ✨ Overview
+### ✨ Overview
 
 In this lesson, you will learn how to **upload your own `.txt` files** into a Jupyter Notebook, **read** them using Python, and **summarize** their content using **LLMs** (Large Language Models).
 
@@ -13,7 +13,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🚀 Prerequisites
+### 🚀 Prerequisites
 
 First, import the following helper functions:
 
