@@ -37,43 +37,6 @@
      
 ---
 
-## Lesson 1: Using Files in Python
-
-### Overview
-In this lesson, you will learn how to read files using Python. You will begin by working with data that has already been stored in files. This includes opening and reading text files using Python, which will be the main focus of the lesson.
-
-To start, load the necessary functions used in the notebook:
-
-```python
-from helper_functions import get_llm_response
-from IPython.display import display, Markdown
-```
-
-### Code Walkthrough
-
-#### 1. Opening a Text File and Saving it as a String
-
-```python
-f = open("email.txt", "r")
-email = f.read()
-f.close()
-print(email)
-```
-#### 2. Using LLMs to Extract Bullet Points from the Email
-
-```python
-prompt = f"""Extract bullet points from the following email. 
-Include the sender information. 
-
-Email:
-{email}"""
-bullet_points = get_llm_response(prompt)
-print(bullet_points)
-
-display(Markdown(bullet_points))
-```
-
-
 ## Lesson 2: Loading and Using Your Own Data
 
 ### Overview
