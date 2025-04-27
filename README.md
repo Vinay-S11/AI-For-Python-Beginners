@@ -37,32 +37,6 @@
      
 ---
 
-## Lesson 6: Turning Code Blocks into Reusable Functions
-
-### Overview
-In this lesson, we learn how to fetch real-time flight prices using an API, send alerts for price drops, and automate flight monitoring.
-
-Import helper function:
-```python
-from helper_functions import print_llm_response
-from IPython.display import Markdown, display
-```
-
-#### Functions Used Previously:
-
-print function:
-```python
-print("Hello World!")
-```
-len function:
-```python
-friends_list = ["Tommy", "Isabel", "Daniel", "Otto"]
-len(friends_list)
-```
-Helper function:
-```python
-print_llm_response
-```
 
 
 
