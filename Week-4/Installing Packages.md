@@ -35,12 +35,12 @@ url = 'https://www.deeplearning.ai/the-batch/the-world-needs-more-intelligence/'
 response = requests.get(url)
 print(response)
 ```
-Display the content using an HTML iframe:
+#### 4. Display the content using an HTML iframe:
 ```python
 HTML(f'<iframe src={url} width="60%" height="400"></iframe>')
 ```
 
-#### 4. Extracting and Combining Text with BeautifulSoup
+#### 5. Extracting and Combining Text with BeautifulSoup
 
 Parse HTML and extract paragraphs:
 ```python
@@ -52,7 +52,7 @@ for text in all_text:
 print(combined_text)
 ```
 
-#### 5. Using LLMs for Data Extraction
+#### 6. Using LLMs for Data Extraction
 
 Pass the extracted text to an LLM (Large Language Model) for key bullet points:
 ```python
