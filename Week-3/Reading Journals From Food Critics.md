@@ -63,5 +63,8 @@ print(f.read())
 f.close()
 ```
 
-Summary
-In this lesson, you learned how to analyze food-related journal entries using AI. By leveraging LLMs, you can automatically classify journal entries as relevant or not based on their content. We also explored how to automate the classification process for multiple files and investigate any flagged entries.
+##📚 Summary
+- Use AI to classify journal entries as relevant or not to food and restaurants.
+- Work with journal entries from various cities and analyze them with LLMs.
+- Automate the relevance check for multiple files using a for loop.
+- Investigate "Not relevant" entries by reviewing their content.
