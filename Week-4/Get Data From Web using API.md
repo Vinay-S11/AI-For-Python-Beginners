@@ -1,6 +1,6 @@
 ## 🌈 Lesson 5: APIs to Get Data from the Web
 
-### Overview:
+### ✨ Overview:
 In this lesson, you will learn how to fetch real-time weather data from a web service (OpenWeatherMap) using the requests library and how to display the extracted data in a human-readable format.
 
 Content:
