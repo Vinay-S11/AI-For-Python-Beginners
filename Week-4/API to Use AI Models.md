@@ -76,7 +76,7 @@ def get_llm_response(prompt):
     return response
 ```
 
-Summary:
+✅ Summary:
   - In this lesson, you learned how to:
   - Query the OpenAI API for model responses
   - Customize the model’s behavior using system messages
