@@ -1,9 +1,9 @@
 ## 🍽️ Lesson 3: Reading Journals from Food Critics
 
-## ✨ Overview
+### ✨ Overview
 In this lesson, you'll explore how AI can classify journal entries from food critics, determining whether a text file is relevant to food and restaurant topics. You’ll work with journal entries, leverage Large Language Models (LLMs) to analyze their content, and classify them accordingly.
 
-## 📝 1. Working with Text Data
+### 📝 1. Working with Text Data
 First, we’ll load and read journal entries from different cities. Let's start by opening and printing the Cape Town journal:
 
 
