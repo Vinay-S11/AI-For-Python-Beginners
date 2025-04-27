@@ -65,7 +65,7 @@ Forecast: {weather_string}
 print_llm_response(prompt)
 ```
 
-Summary:
+✅ Summary:
   - In this lesson, you learned how to:
   - Fetch real-time weather data from OpenWeatherMap API
   - Parse and extract useful data from the JSON response
