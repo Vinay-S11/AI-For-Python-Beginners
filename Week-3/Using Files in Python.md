@@ -1,8 +1,8 @@
-# Lesson 1: Using Files in Python 📂🐍
+## Lesson 1: Using Files in Python 📂🐍
 
 ---
 
-## ✨ Overview
+### ✨ Overview
 
 In this lesson, you will learn **how to open and read files** using Python.  
 You'll work with **existing text files**, explore **basic file operations**, and utilize **LLMs (Large Language Models)** to process file contents.
@@ -14,7 +14,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🚀 Prerequisites
+### 🚀 Prerequisites
 
 Make sure the following functions are available before starting:
 ```python
