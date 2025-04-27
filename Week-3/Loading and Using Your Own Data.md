@@ -76,11 +76,11 @@ print(prompt)
 print_llm_response(prompt)
 ```
 🔥 Challenge for You
-Upload two different .txt files.
-Summarize each file in one sentence instead of two.
-Modify the prompt: try asking for key points instead of a summary!
+  - Upload two different .txt files.
+  - Summarize each file in one sentence instead of two.
+  - Modify the prompt: try asking for key points instead of a summary!
 
 📚 Summary
-You can list and upload files directly in your Jupyter environment.
-Reading files is simple using open(), read(), and close().
-Using LLMs, you can summarize, extract information, or even transform text data easily.
+  - You can list and upload files directly in your Jupyter environment.
+  - Reading files is simple using open(), read(), and close().
+  - Using LLMs, you can summarize, extract information, or even transform text data easily.
