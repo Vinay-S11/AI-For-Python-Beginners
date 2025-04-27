@@ -63,8 +63,8 @@ print(f.read())
 f.close()
 ```
 
-##📚 Summary
-- Use AI to classify journal entries as relevant or not to food and restaurants.
-- Work with journal entries from various cities and analyze them with LLMs.
-- Automate the relevance check for multiple files using a for loop.
-- Investigate "Not relevant" entries by reviewing their content.
+📚 Summary
+  - Use AI to classify journal entries as relevant or not to food and restaurants.
+  - Work with journal entries from various cities and analyze them with LLMs.
+  - Automate the relevance check for multiple files using a for loop.
+  - Investigate "Not relevant" entries by reviewing their content.
