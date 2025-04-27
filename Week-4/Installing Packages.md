@@ -64,7 +64,7 @@ Text:
 print_llm_response(prompt)
 ```
 
-Summary:
+✅ Summary:
   - In this lesson, you learned how to:
   - Install packages using pip
   - Import and use functions from third-party libraries
