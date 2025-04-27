@@ -1,6 +1,6 @@
 ## ✨ Lesson 6: APIs to Use AI Models
 
-### Overview:
+### ✨ Overview:
 In this lesson, you will interact with the OpenAI API to query a language model and learn how to fine-tune the behavior of the model through system messages and response settings.
 
 Content:
