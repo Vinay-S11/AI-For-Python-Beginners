@@ -1,10 +1,15 @@
 # AI-For-Python-Beginners
 
+## 📚 Overview
+This repository contains practical lessons and mini-projects for Python beginners, focusing on working with files, structured data, web scraping, APIs, and integrating AI models using LLMs.
+It is designed for learners who want to apply real-world techniques in Python, data handling, and AI applications.
+
+
 ## Week 3 - Working with Files in Python
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. Lesson 1: Using Files in Python
    - Opening a Text File and Saving it as a String
@@ -41,7 +46,7 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. Lesson 1: Using functions from a local file
    - Revisiting the temperature conversion example
@@ -80,7 +85,23 @@
    - Understanding API call structure to OpenAI
    - Revisiting and explaining get_llm_response function
 
+## 🎯 Learning Outcomes
+   - By the end of Week 4, you will be able to:
+   - Open, read, and write to text and CSV files
+   - Summarize and extract information using AI
+   - Organize Python scripts into reusable functions
+   - Install and use built-in and third-party packages
+   - Retrieve and parse real-time data from APIs
+   - Perform basic web scraping
+   - Send and structure API requests to AI models like OpenAI
 
+📋 Requirements
+   - Python 3.10+
+   - requests
+   - pandas
+   - matplotlib
+   - beautifulsoup4
+   - OpenAI API key (for LLM usage)
+   - OpenWeatherMap API key (for weather data)
 
-
-
+# 🚀 Happy Learning!
